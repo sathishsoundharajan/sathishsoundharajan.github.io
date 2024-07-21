@@ -1,0 +1,31 @@
+{
+    "editor.tabSize": 4,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "[yaml]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.tabSize": 2
+    },
+    "[toml]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.tabSize": 2
+    },
+    "[markdown]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.tabSize": 2
+    },
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "files.associations": {
+        "*.css": "tailwindcss",
+    },
+    "yaml.schemas": {
+        "file:///Users/ecom-sathish.sa/.vscode/extensions/atlassian.atlascode-2.10.1/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml",
+        "https://raw.githubusercontent.com/deployphp/deployer/master/src/schema.json": "file:///home/ecom-sathishsa/ownspace/sathishsoundharajan.github.io/.github/workflows/deploy.yml"
+    }
+}
